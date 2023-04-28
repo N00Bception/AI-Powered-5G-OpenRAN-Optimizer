@@ -7,9 +7,13 @@ This repository contains an AI-powered optimization system for Open RAN that lev
 The AI-powered optimization system includes the following features:
 
 ~ Network Anomaly Detection: The system can detect network anomalies and performance degradation in real-time by analyzing network data, such as traffic patterns, signal strength, and congestion.
+
 ~ Predictive Network Planning: The system can predict network traffic and plan network resources allocation accordingly to ensure optimal performance.
+
 ~ Dynamic Network Optimization: The system can dynamically optimize network resources allocation based on real-time network conditions, such as traffic load, weather conditions, and network congestion.
+
 ~ Energy Efficiency Optimization: The system can optimize the energy consumption of the network by dynamically adjusting network resources allocation based on the energy efficiency of different network components.
+
 To implement this project, we used various AI technologies, such as supervised and unsupervised machine learning algorithms, deep learning, reinforcement learning, and natural language processing. We also integrated the AI-powered optimization system with Open RAN interfaces, such as O-RAN, to enable seamless integration and interoperability.
 
 ## Project Structure
