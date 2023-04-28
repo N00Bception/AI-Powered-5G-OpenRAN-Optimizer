@@ -61,7 +61,7 @@ python src/evaluate.py --input <evaluation_data_path> --models <models_path>
 python src/optimize.py --input <real-time_data_path> --models <models_path> --output <optimized_data_path>
 ```
 ## Acknowledgments
-This project was developed by Salim EL GHALBOZURI -Azure AI Engineer- as part of National Institute of Postes and Telecommunications's 5G-RAN Engineer program. We would like to acknowledge the contributions of the Open RAN community and the open-source AI frameworks used in this project.
+This project was developed by Salim EL GHALBOZURI -Azure AI/5G RAN Engineer- as part of National Institute of Postes and Telecommunications's 5G-RAN Engineer program. We would like to acknowledge the contributions of the Open RAN community and the open-source AI frameworks used in this project.
 
 ## Contributing
 This project is a work in progress, and we welcome contributions from developers and researchers. If you'd like to contribute, please fork the repository, make your changes, and submit a pull request.
