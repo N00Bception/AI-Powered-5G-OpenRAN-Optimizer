@@ -16,9 +16,13 @@ To implement this project, we used various AI technologies, such as supervised a
 The project is structured as follows:
 
 ~ `data`: This folder contains the datasets used to train and evaluate the machine learning models.
+
 ~ `models`: This folder contains the trained machine learning models.
+
 ~ `notebooks`: This folder contains Jupyter notebooks that were used to develop, test, and analyze the machine learning models.
+
 ~ `src`: This folder contains the source code for the AI-powered optimization system, including scripts for data preprocessing, training, and inference.
+
 ~ `tests`: This folder contains unit tests and integration tests for the AI-powered optimization system.
 
 ## Installation
