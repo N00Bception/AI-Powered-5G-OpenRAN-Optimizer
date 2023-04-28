@@ -27,6 +27,33 @@ To install the AI-powered optimization system, follow these steps:
 1. Clone the repository:
 ```bash 
 git clone https://github.com/yourusername/AI-Powered-5G-OpenRAN-Optimizer.git
+```
+2. Install the required dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+## Usage
+To use the AI-powered optimization system, follow these steps:
+
+1. Prepare the data:
+```bash 
+python src/preprocess.py --input <input_data_path> --output <output_data_path>
+```
+2. Train the machine learning models:
+```bash
+python src/train.py --input <training_data_path> --output <models_path>
+```
+3. Evaluate the machine learning models:
+```bash 
+python src/evaluate.py --input <evaluation_data_path> --models <models_path>
+```
+4. Run the AI-powered optimization system:
+```bash
+python src/optimize.py --input <real-time_data_path> --models <models_path> --output <optimized_data_path>
+```
+## Acknowledgments
+This project was developed by Salim EL GHLABOZURI -Azure AI Engineer- as part of National Institute of Postes and Telecommunications's 5G-RAN Engineer program. We would like to acknowledge the contributions of the Open RAN community and the open-source AI frameworks used in this project.
 
 ## Contributing
 This project is a work in progress, and we welcome contributions from developers and researchers. If you'd like to contribute, please fork the repository, make your changes, and submit a pull request.
