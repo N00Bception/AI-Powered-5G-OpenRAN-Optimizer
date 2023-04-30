@@ -1,1 +1,48 @@
+# Network Optimization System Requirements
+======================================
+Python Version
+python==3.8.0
 
+# Data Processing Libraries
+pandas==1.3.1
+numpy==1.21.1
+scikit-learn==0.24.2
+
+# Data Extraction Libraries
+requests==2.26.0
+beautifulsoup4==4.9.3
+selenium==3.141.0
+
+# Network Optimization Libraries
+tensorflow==2.5.0
+keras==2.4.3
+pytorch==1.9.0
+
+# Energy Efficiency Optimization Libraries
+pyomo==5.7.3
+pulp==2.4
+
+# Predictive Network Planning Libraries
+scipy==1.7.0
+statsmodels==0.12.2
+
+# Network Anomaly Detection Libraries
+matplotlib==3.4.2
+seaborn==0.11.1
+pyod==0.9.4
+
+# Visualization Libraries
+plotly==5.1.0
+dash==2.0.0
+dash-core-components==2.0.0
+dash-html-components==2.0.0
+dash-bootstrap-components==0.13.1
+
+# Miscellaneous Libraries
+pylint==2.9.6
+pytest==6.2.4
+
+# Note: This file lists all the required libraries and their versions for the Network Optimization System.
+# To install these libraries, run the following command:
+# pip install -r requirements.txt
+# Note: It's recommended to create a new virtual environment before installing these libraries to avoid conflicts with existing libraries on your system.
