@@ -34,7 +34,7 @@ To install the AI-powered optimization system, follow these steps:
 
 1. Clone the repository:
 ```bash 
-git clone https://github.com/yourusername/AI-Powered-5G-OpenRAN-Optimizer.git
+git clone https://github.com/N00Bception/AI-Powered-5G-OpenRAN-Optimizer.git
 ```
 2. Install the required dependencies:
 ```bash
